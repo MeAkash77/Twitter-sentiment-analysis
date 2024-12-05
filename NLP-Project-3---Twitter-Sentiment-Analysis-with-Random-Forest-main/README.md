@@ -12,10 +12,6 @@ Twitter Sentiment Analysis with TF-IDF and Random Forest Model
 
 Don't miss out on this fascinating project! Tune in now and level up your NLP skills. 📊🔥 #NLP #SentimentAnalysis #MachineLearning #StreamlitApp #TwitterAnalysis
 
-
-# Announcement-on-ML
-<a href='http://www.kgptalkie.com' target="_blank"> <img src='https://github.com/laxmimerit/Important-Announcement-on-ML/raw/master/kgptalkie_strips.png'/></a>
-
 # ML Resources
 |  ML Course | Description |
 |:---|:---|
