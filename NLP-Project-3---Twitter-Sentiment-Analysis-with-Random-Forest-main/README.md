@@ -1,11 +1,8 @@
 # NLP-Project-3---Twitter-Sentiment-Analysis-with-Random-Forest
 Twitter Sentiment Analysis with TF-IDF and Random Forest Model
 
-Watch YouTube Video Here: 
-**https://youtu.be/U1-7VIXnSs8**
-
 ---
-📺 Welcome to NLP Projects 3! In this video, we dive into the exciting world of Twitter Sentiment Analysis using Random Forest and a sleek Streamlit App. 🌐🌟
+📺 Welcome to NLP Projects 3! In this, we dive into the exciting world of Twitter Sentiment Analysis using Random Forest and a sleek Streamlit App. 🌐🌟
 
 🔍 Discover how we harness the power of Natural Language Processing to analyze tweets and uncover sentiments. 💬🤖
 
